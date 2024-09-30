@@ -11,7 +11,7 @@ on:
       -develop
     #um outro evento, será quando disparar um pull_request
   pull_request:
-      branches:
+    branches:
         -main
         -master
         -develop
